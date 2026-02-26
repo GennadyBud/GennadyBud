@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Mein wissenschaftlicher Text</title>
+  <style>
+    body {
+      font-family: Georgia, serif;
+      max-width: 800px;
+      margin: 40px auto;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Titel deiner Arbeit</h1>
+<p><em>Autor: Dein Name</em></p>
+
+<h2>Einleitung</h2>
+<p>Die Entwicklung von Zitierrichtlinien ist eng mit der Institutionalisierung und Professionalisierung wissenschaftlicher Arbeit verbunden. Einheitliche Regeln für Quellenangaben, Typografie und Manuskriptgestaltung dienen nicht nur der formalen Ordnung, sondern vor allem der Nachvollziehbarkeit, Überprüfbarkeit und Vergleichbarkeit wissenschaftlicher Erkenntnisse. Bereits zu Beginn des 20. Jahrhunderts wurde deutlich, dass wissenschaftliche Kommunikation verbindliche Standards benötigt. Ein frühes Beispiel hierfür ist das 1906 erschienene Manual of Style der University of Chicago Press [1], das grundlegende typografische und editorische Regeln systematisch zusammenfasste und damit einen wichtigen Grundstein für spätere Zitiernormen legte.
+
+Die historische Entwicklung solcher Richtlinien zeigt, dass sie sich kontinuierlich an neue wissenschaftliche, technische und sprachliche Anforderungen angepasst haben. Gleichzeitig wirft die Übertragung überwiegend ангloamerikanischer Standards auf die deutsche Sprache spezifische Probleme auf, die sowohl linguistischer als auch wissenschaftskultureller Natur sind.</p>
+
+<h2>Hauptteil</h2>
+<p>Während frühe Regelwerke vor allem typografische Fragen behandelten, verlagerte sich der Schwerpunkt in den 1920er Jahren zunehmend auf inhaltliche und strukturelle Anforderungen an wissenschaftliche Manuskripte. Der 1929 in Psychological Bulletin veröffentlichte Beitrag „Instructions in regard to preparation of manuscript“ verdeutlicht diesen Wandel [2]. Hier wurden detaillierte Vorgaben zur Gliederung, Zitierweise und formalen Gestaltung wissenschaftlicher Texte formuliert. Damit trat neben die reine Drucktechnik das Ziel methodischer Transparenz und disziplinärer Einheitlichkeit.
+
+Mit der weiteren Ausdifferenzierung der Wissenschaften entstanden umfassende Stilhandbücher, die über einzelne Fachzeitschriften hinaus Wirkung entfalteten. Das MLA Handbook for Writers of Research Papers der Modern Language Association of America etablierte insbesondere in den Geisteswissenschaften ein Autor-Seite-System, das Kurzbelege im Fließtext vorsieht [3]. Dieses Modell unterscheidet sich grundlegend von traditionellen deutschen Zitierweisen, die häufig auf ausführliche Fußnoten setzen.
+
+Parallel dazu entwickelte sich The Chicago Manual of Style, herausgegeben von der University of Chicago Press, zu einem der international einflussreichsten Regelwerke [4]. Seine Besonderheit liegt in der Kombination verschiedener Zitiersysteme – etwa des Fußnoten- und des Autor-Jahr-Systems – wodurch eine größere Flexibilität ermöglicht wird. Diese Offenheit zeigt, dass Zitiernormen nicht starr sind, sondern auf unterschiedliche disziplinäre Bedürfnisse reagieren.
+
+Die Übertragung dieser vorwiegend ангloamerikanischen Regelwerke auf die deutsche Sprache ist jedoch mit Herausforderungen verbunden. Ein zentrales Problem betrifft die Groß- und Kleinschreibung von Titeln: Während im Englischen häufig das sogenannte „Title Case“ verwendet wird, folgt das Deutsche der satzgemäßen Großschreibung. Auch Unterschiede in der Zeichensetzung – etwa bei Anführungszeichen oder der Stellung von Satzzeichen – können bei direkter Übernahme zu formalen Inkonsistenzen führen.
+
+Darüber hinaus bestehen unterschiedliche wissenschaftskulturelle Traditionen. Im deutschsprachigen Raum ist das Fußnotensystem historisch stark verankert, während insbesondere das MLA-System Kurzverweise im Text bevorzugt [3]. Selbst flexible Regelwerke wie das Chicago-Handbuch [4] müssen daher bei der Anwendung in deutschen Texten sprachlich und formal angepasst werden.</p>
+
+<h2>Fazit</h2>
+<p>Die historische Entwicklung von Zitierrichtlinien zeigt einen fortlaufenden Prozess der Standardisierung wissenschaftlicher Kommunikation. Von frühen typografischen Regelwerken [1] über disziplinspezifische Manuskriptanweisungen [2] bis hin zu umfassenden internationalen Stilhandbüchern [3], [4] lässt sich eine zunehmende Systematisierung und Institutionalisierung beobachten.
+
+Die Übertragung dieser Standards auf die deutsche Sprache ist jedoch keine rein formale Angelegenheit. Unterschiedliche sprachliche Strukturen, typografische Konventionen und wissenschaftskulturelle Traditionen erfordern eine reflektierte Anpassung. Zitierregeln sind daher nicht nur technische Vorschriften, sondern Ausdruck historisch gewachsener Kommunikationsformen innerhalb der Wissenschaft, die bei ihrer Anwendung stets im jeweiligen sprachlichen Kontext berücksichtigt werden müssen.</p>
+
+</body>
+</html>
